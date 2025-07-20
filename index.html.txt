@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ÖzetleGPT</title>
+  <style>
+    body { font-family: Arial; padding: 40px; background: #f0f0f0; }
+    input, button { padding: 10px; margin: 10px 0; width: 100%; max-width: 500px; }
+    .output { background: white; padding: 20px; margin-top: 20px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>ÖzetleGPT</h1>
+  <p>Bir YouTube video linki girin:</p>
+  <input type="text" id="linkInput" placeholder="https://youtube.com/..." />
+  <button onclick="showSummary()">Özetle</button>
+
+  <div class="output" id="summaryBox" style="display:none;">
+    <h3>Video Özeti:</h3>
+    <p id="summaryText">...</p>
+  </div>
+
+  <script>
+    function showSummary() {
+      const input = document.getElementById("linkInput").value;
+      if (!input) return alert("Lütfen bir YouTube linki girin.");
+      const fakeSummary = "Bu videoda yapay zekanın geleceği ve kullanım alanları anlatılıyor. Eğitim, sağlık ve yazılım dünyasına etkileri vurgulanıyor.";
+      document.getElementById("summaryText").innerText = fakeSummary;
+      document.getElementById("summaryBox").style.display = "block";
+    }
+  </script>
+</body>
+</html>
