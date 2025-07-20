@@ -1,6 +1,6 @@
 # ÖzetleGPT 🎬🤖
 
-**ZeroToHero Takımı** tarafından geliştirilen bu proje, YouTube videolarını yapay zeka kullanarak otomatik özetleyen bir web uygulamasıdır.
+**ZeroToHero Ali Rıza Yılmaz tarafından tekk** geliştirilen bu proje, YouTube videolarını yapay zeka kullanarak otomatik özetleyen bir web uygulamasıdır.
 
 ## 🚀 Amaç
 Kullanıcıların uzun videoları izlemek zorunda kalmadan, içerik hakkında hızlı ve net bilgi alabilmesini sağlamak.
