@@ -99,7 +99,7 @@ Proje, eğitim ve araştırma amaçlı videoları hızlıca anlamayı kolaylaşt
 |-------|----------|
 | `index.html` | Demo uygulama arayüzü |
 | `README.md` | Proje dokümantasyonu (bu dosya) |
-| `1_sprint_sunumu.pdf` | İlk sprint sunumu (ayrıca eklendi) |
+| `ÖzetleGPT sunum.pdf` | İlk sprint sunumu (ayrıca eklendi) |
 | `2_sprint_sunumu.pdf` | İkinci sprint sunumu (ayrıca eklendi) |
 
 ---
