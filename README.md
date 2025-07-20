@@ -32,6 +32,18 @@ Proje, eğitim ve araştırma amaçlı videoları hızlıca anlamayı kolaylaşt
 
 ---
 
+## 🧰 Kullanılan Teknolojiler
+
+| Katman          | Kullanılan Teknoloji / Yöntem                                         |
+|-----------------|----------------------------------------------------------------------|
+| 🖥️ Front-End     | HTML5, CSS (inline style), Vanilla JavaScript                       |
+| 🧠 NLP / Prompt  | Hazır örnek çıktı (şu an için sahte özet) – Prompt tabanlı yapı planlandı |
+| 🔧 Back-End      | Henüz yok – Sprint 3'te OpenAI API ile Node.js / Python Flask planı |
+| 📄 Dokümantasyon | Markdown (`README.md`), Canva (PDF sunum), GitHub Project Board     |
+| ☁️ Versiyon Kontrol | Git, GitHub (public repo, sprint bazlı commit yapısı)               |
+
+---
+
 ## 📌 Kullanım Senaryosu
 
 1. Kullanıcı YouTube linkini girer  
