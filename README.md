@@ -40,8 +40,8 @@ Tüm roller tek kişi tarafından üstlenilmiştir: Product Owner, Scrum Master 
 🟡 1. Sprint tamamlandı  
 ⚪ 2. Sprint geliştirme aşamasında  
 
-## 🖼️ Ekran Görüntüleri
-(→ Canva'da yaptığın tasarımı buraya PNG olarak ekleyebilirsin.)
+## 🖼️ Slayt
+Sunum .pdf dosyası olarak verilmiştir.
 
 ## 📜 Lisans
 Bu proje Yapay Zeka ve Teknoloji Akademisi Bootcamp’i kapsamında geliştirilmiştir. Dışa açık kullanımı yoktur.
